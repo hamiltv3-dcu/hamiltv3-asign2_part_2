@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SDA_Assign_2_2018_Vincent_Hamilton.</string>
+    <string name="Open_Camera">Implicit Intent:Open Camera</string>
+    <string name="View_picture">Implicit Intent: View Picture</string>
+    <string name="Call_activity">Explicit Intent: Call an Activity</string>
+</resources>
+
